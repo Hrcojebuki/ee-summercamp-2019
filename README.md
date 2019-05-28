@@ -1,1 +1,1 @@
-https://hrvoje-stranica.netlify.com/products.html
+https://hrvoje-stranica.netlify.com
